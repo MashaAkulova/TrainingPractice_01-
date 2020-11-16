@@ -1,7 +1,0 @@
-C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Task_04\bin\Debug\AMA_Task_04.exe.config
-C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Task_04\bin\Debug\AMA_Task_04.exe
-C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Task_04\bin\Debug\AMA_Task_04.pdb
-C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Task_04\obj\Debug\AMA_Task_04.csprojAssemblyReference.cache
-C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Task_04\obj\Debug\AMA_Task_04.csproj.CoreCompileInputs.cache
-C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Task_04\obj\Debug\AMA_Task_04.exe
-C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Task_04\obj\Debug\AMA_Task_04.pdb
