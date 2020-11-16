@@ -1,0 +1,7 @@
+C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Tusk_06\obj\Debug\AMA_Tusk_06.csprojAssemblyReference.cache
+C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Tusk_06\obj\Debug\AMA_Tusk_06.csproj.CoreCompileInputs.cache
+C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Tusk_06\bin\Debug\AMA_Tusk_06.exe.config
+C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Tusk_06\bin\Debug\AMA_Tusk_06.exe
+C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Tusk_06\bin\Debug\AMA_Tusk_06.pdb
+C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Tusk_06\obj\Debug\AMA_Tusk_06.exe
+C:\Users\Masha\Desktop\TrainingPractice_01-master\AMA_Tusk_06\obj\Debug\AMA_Tusk_06.pdb
